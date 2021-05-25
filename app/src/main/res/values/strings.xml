@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CarTrack_Assignment</string>
+    <string name="cartrack_login_page_heading">Enter the Username and Password</string>
+    <string name="cartrack_login_page_signup">Sign Up</string>
+    <string name="cartrack_login_page_remember_credentials_and_login">Remember Credentials and Login</string>
+    <string name="cartrack_login_page_signin">Sign In</string>
+    <string name="cartrack_userlist_page_logout">Logout</string>
+</resources>
