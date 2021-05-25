@@ -1,12 +1,15 @@
 *Name* : Juhee Anchlia
 
 *Project Details* :
-*Sign Up :*
-- Enter username and password
-- Click on Signup button
+
+*Sign Up :* 
+  1) Enter username and password
+  2) Click on Signup button
+  
 *Login :*
-- Enter signed up username and password
-- Click on Sign in Button
+  1) Enter signed up username and password
+  2) Click on Sign in Button
+  
 *Remember credentials and Login :*
-- Enter signed up username and password
-- Click on Remember credentials and Login button
+  1) Enter signed up username and password
+  2) Click on Remember credentials and Login button
